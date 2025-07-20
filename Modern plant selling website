@@ -181,6 +181,33 @@
                     <div class="price">$45</div>
                 </div>
             </article>
+
+            <article class="plant-card">
+                <img src="Jade Plant.jpeg" alt="Jade Plant" class="plant-image">
+                <div class="plant-info">
+                    <h3>Jade Plant</h3>
+                    <p>(Crassula ovata) are popular, easy-to-care-for succulents known for their thick, glossy, oval-shaped leaves and tree-like appearance. </p>
+                    <div class="price">$25</div>
+                </div>
+            </article>
+
+            <article class="plant-card">
+                <img src="Peace lily.jpeg" alt="Peace lily" class="plant-image">
+                <div class="plant-info">
+                    <h3>Peace Lily</h3>
+                    <p>The peace lily, with its gentle white blooms, whispers tranquility into the soul of any room it graces.</p>
+                    <div class="price">$25</div>
+                </div>
+            </article>
+
+            <article class="plant-card">
+                <img src="Lucky Bamboo.jpeg" alt="Lucky Bamboo" class="plant-image">
+                <div class="plant-info">
+                    <h3>lucky Bamboo</h3>
+                    <p>It's a popular indoor plant often associated with good luck, prosperity, and positive energy</p>
+                    <div class="price">$20</div>
+                </div>
+            </article>
         </section>
 
         <!-- 🌳 Outdoor Plants -->
